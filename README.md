@@ -12,14 +12,16 @@
 
 
 
-## 🛠 Tecnologias que estou explorando e minhas Ferramentas:
+### 🛠️ Minhas Ferramentas e Estudos
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pygame](https://img.shields.io/badge/pygame-4A148C?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="27" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="26" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25" height="40" />
+  <img src="https://img.shields.io/badge/-ffffff?style=social&logo=apple&logoColor=black" width="30" height="40" />
+</p>
+          
+                    
 
 
 ## 🎯 Meu Roadmap para 2026 (Em construção... 🏗️)
