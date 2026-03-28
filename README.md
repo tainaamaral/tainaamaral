@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
-### 🚀 Sobre mim
+### 🪷 Sobre mim 
 - 🎓 Caloura de **Engenharia de Software** na **PUC-PR** (2026)
 - 🐍 Atualmente focada em dominar a linguagem **Python** e explorando o desenvolvimento de jogos
 - 👩🏻‍💻 Tenho interesse em projetos na criação de **Interfaces de Usuário (UI/UX)** bonitas e funcionais para sites e jogos.
@@ -37,3 +37,4 @@
 
 ### 📫 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tain%C3%A1-amaral-bbb85a3b5/)
+[![Email](https://img.shields.io/badge/Email-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tainaamaral.contact@gmail.com)
