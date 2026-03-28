@@ -1,4 +1,4 @@
-# Olá, eu sou a Tainá Amaral! 👋
+# Oiee, eu sou a Tainá Amaral! 🫂
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
