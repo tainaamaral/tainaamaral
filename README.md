@@ -27,10 +27,12 @@
 ## 🎯 Meu Roadmap para 2026 (Em construção... 🏗️)
 *Meu objetivo este ano é experimentar de tudo um pouco para descobrir minhas verdadeiras paixões:*
 
-- [ ] **Game Dev:** Criar meu primeiro joguinho simples em Python.
-- [ ] **Web UI:** Aprender a deixar um site "bonitinho" com HTML/CSS.
-- [ ] **AI & Prompts:** Entender como usar IAs para aumentar minha produtividade.
-- [ ] **Colaboração:** Participar do meu primeiro projeto em grupo no GitHub.
+- [ ] **Lógica de Programação** com **Python**
+- [ ] **Fundamentos e Tipagem Forte** com **Java**
+- [ ] **Resolução de Problemas** (Algoritmos no Beecrowd)
+- [ ] **Programação Orientada a Objetos** (Java Avançado)
+- [ ] **Estrutura de Dados** (Base Teórica e Prática)
+- [ ] **Rumo a fluência** no **INGLÊS**
       
 
 ## 📊 Linguagens mais utilizadas
