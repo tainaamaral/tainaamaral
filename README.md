@@ -7,7 +7,7 @@
 ## 🪷 Sobre mim 
 - 🎓 Caloura de **Engenharia de Software** na **PUC-PR** (2026)
 - 🐍 Atualmente focada em dominar a linguagem **Python**
-- 👩🏻‍💻 Tenho interesse em projetos na criação de **Interfaces de Usuário (UI/UX)** bonitas e funcionais para sites
+- 👩🏻‍💻 Tenho interesse em projetos na criação de **Interfaces de Usuário (UI/UX)** bonitas e funcionais
 - 📚 Nas horas vagas, meu hobby é mergulhar em um bom **livro** (aceito recomendações!)
 
 
