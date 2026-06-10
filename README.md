@@ -1,7 +1,7 @@
 # Oiee, eu sou a Tainá Amaral! 🫂
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tainaamaral&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 ## 🪷 Sobre mim 
@@ -36,7 +36,7 @@
       
 
 ## 📊 Linguagens mais utilizadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tainaamaral&layout=compact&theme=dracula)
 
 
 ## 📫 Vamos nos conectar?
