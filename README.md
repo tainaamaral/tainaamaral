@@ -1,9 +1,9 @@
 <div align="center">
   <h1> Olá, eu sou a Tainá Amaral! 👩🏻‍💻</h1>
-<p>Backend | Desenvolvimento Web | IOT</p>
+<h3>Backend | Desenvolvimento Web | IOT</h3>
 </div>
 
-## Sobre mim
+<h2>Sobre mim</h2>
   - Graduanda em Engenharia de Software na **PUCPR** (Previsão: 2029).
       <br>
   - Desenvolvo soluções integradas, desde aplicações desktop com **Python e SQLite** até sistemas web fullstack com **PHP, JavaScript e MySQL**.
