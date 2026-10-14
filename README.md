@@ -26,14 +26,12 @@
 - **[Semáforo Acessível IoT]:** Simulação de sistema ciberfísico no Wokwi utilizando microcontrolador ESP32 programado em C/C++, integrado com leitura de cartões RFID e feedback audiovisual.
 
 ## Estatísticas do GitHub
-
+<br>
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=tainaamaral&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tainaamaral&layout=compact&theme=dracula" alt="Top Langs" />
 </div>
-
-<br>
 
 ## 📫 Vamos nos conectar?
   
