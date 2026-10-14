@@ -3,7 +3,7 @@
 <p>Backend | Desenvolvimento Web | IOT</p>
 </div>
 
-Sobre mim
+## Sobre mim
   - Graduanda em Engenharia de Software na **PUCPR** (Previsão: 2029).
       <br>
   - Desenvolvo soluções integradas, desde aplicações desktop com **Python e SQLite** até sistemas web fullstack com **PHP, JavaScript e MySQL**.
